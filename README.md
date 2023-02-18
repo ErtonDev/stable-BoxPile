@@ -7,6 +7,8 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Windows-orange.svg)]()
 [![GitHub Repo stars](https://img.shields.io/github/stars/ErtonDev/stable-BoxPile?style=social)](https://github.com/ErtonDev/stable-BoxPile)
 
+# WARNING: BoxPile is not being supported at the moment. Any attempt of using the app will result in an error message. We are looking forward to create a V1.0.0 product with a more professional approach to education. Until then, BoxPile and its servers have been shut down. Thanks for your support :)
+
 Last stable version of BoxPile: **V0.2.7 Alpha**
 
 <p align="center">
